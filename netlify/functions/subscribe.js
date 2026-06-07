@@ -3,7 +3,7 @@
 // API key is stored in Netlify environment variables — never in client code.
 
 const MAILERLITE_API_URL = 'https://connect.mailerlite.com/api';
-const GROUP_ID = '89629665447512052';
+const GROUP_ID = '189629665447512052';
 
 exports.handler = async function(event, context) {
 
